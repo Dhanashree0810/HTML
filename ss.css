@@ -1,0 +1,35 @@
+
+h1
+{
+    color: darkblue;
+    text-align: center;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjq-jFSdufVDxd4L8q57Dqs-a8Y3Z4rYhrlQ&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+p{
+    color: hotpink;
+}
+ 
+body
+{
+    background-image:url(https://t3.ftcdn.net/jpg/01/19/56/12/360_F_119561214_jkoqtYS7gWQaJOdgmIfWVNMnWj82rlIR.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-origin: initial;
+}
+p1
+{
+    color: whitesmoke;
+    font-style: bold;
+    font-size: large;
+}
+h2
+{
+    color: rgb(243, 40, 40);
+}
+p2
+{
+ color: hotpink;
+}
